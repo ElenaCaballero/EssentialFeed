@@ -4,12 +4,12 @@
       "id" : "886D41A6-7046-47A2-9A4E-C98FF5B7D25C",
       "name" : "Test Scheme Action",
       "options" : {
-
+        "testExecutionOrdering" : "random"
       }
     }
   ],
   "defaultOptions" : {
-
+    "testExecutionOrdering" : "random"
   },
   "testTargets" : [
     {
