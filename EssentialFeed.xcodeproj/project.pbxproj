@@ -47,6 +47,7 @@
 /* Begin PBXFileReference section */
 		04022AA82B8C915E0021123B /* HTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
 		04022AAA2B8C919F0021123B /* FeedItemsMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedItemsMapper.swift; sourceTree = "<group>"; };
+		04396BAF2BA84019001A6BB2 /* EssentialFeedTests.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = EssentialFeedTests.xctestplan; sourceTree = "<group>"; };
 		045EB9582B9F6A0F00919828 /* XCTestCase+MemoryLeakTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "XCTestCase+MemoryLeakTracking.swift"; sourceTree = "<group>"; };
 		045EB95C2B9F6F4000919828 /* URLSessionHTTPClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionHTTPClient.swift; sourceTree = "<group>"; };
 		0468510E2B8349C900519478 /* EssentialFeed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EssentialFeed.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -115,6 +116,7 @@
 		046851052B8349C900519478 = {
 			isa = PBXGroup;
 			children = (
+				04396BAF2BA84019001A6BB2 /* EssentialFeedTests.xctestplan */,
 				046851102B8349C900519478 /* EssentialFeed */,
 				046851272B8349CA00519478 /* EssentialFeedTests */,
 				046851312B8349CA00519478 /* EssentialFeedUITests */,
